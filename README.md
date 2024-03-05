@@ -1,7 +1,8 @@
 # PavCrack
-Pavement crack segmentation model with attention mechanisms and self-gated activation to improve the results. Details of the project will be available soon.
+Pavement crack segmentation model with attention mechanisms and self-gated activation to improve the results.
 
-Dataset Information:
+<span style="font-size:20px; color:blue;">Dataset Information:</span>
+
 
 #DeepCrack: 
 Y. Liu, J. Yao, X. Lu, R. Xie, and L. Li, “Deepcrack: A deep hierarchical feature learning architecture for crack segmentation,” Neurocomputing, vol. 338, pp. 139–153, 2019.
