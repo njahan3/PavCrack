@@ -3,6 +3,8 @@ Pavement crack segmentation model with attention mechanisms and self-gated activ
 
 <h3>Dataset Information:</h3>
 <span style="font-size:20px;">Dataset Information:</span>
+<span style="font-size: 20px; color: blue;">This text has a larger font size and is blue</span>
+
 
 
 #DeepCrack: 
