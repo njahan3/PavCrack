@@ -1,7 +1,7 @@
 # PavCrack
 Pavement crack segmentation model with attention mechanisms and self-gated activation to improve the results.
 
-<span style="font-size:20px; color:blue;">Dataset Information:</span>
+<h3>Dataset Information:</h3>
 <span style="font-size:20px;">Dataset Information:</span>
 
 
